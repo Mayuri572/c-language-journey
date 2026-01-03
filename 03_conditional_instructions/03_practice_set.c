@@ -67,5 +67,34 @@ int main() {
             printf("Invalid option selected.\n");
     }
 
+    //Question 5: Find the greatest of four numbers
+    int a, b, c, d;
+    printf("Enter Four numders:\n");
+    scanf("%d %d %d %d", &a, &b, &c, &d);
+    if (a > b && a > c &&a > d){
+        printf("a is the greatest\n");
+    }
+    else if (b > a && b > c && b > d){
+        printf("b is the greatest\n");
+    }
+    else if (c > a && c > b && c > d){
+        printf("c is the greatest\n");
+    }
+    else{
+        printf("d is the greatest\n");
+
+    }
+
+    //Q: check character enter by user is lowest or not
+    char ch;
+    printf("Enter a character:\n");
+    scanf(" %c", &ch);
+    if (ch >= 'a' && ch <= 'z'){
+        printf("The character is lowercase\n");
+    }
+    else{
+        printf("The character is not lowercase\n");
+    }
+
     return 0;
 }
