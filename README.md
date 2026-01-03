@@ -4,6 +4,7 @@ My complete C programming learning journey with chapter-wise programs, practice 
 ## Chapters Completed
 - Chapter 1: Introduction
 - Chapter 02: Instructions & Operators
+- Chapter 03: Conditional Instructions
 
 Each chapter contains:
 - Concept-wise programs
