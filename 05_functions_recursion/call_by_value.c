@@ -17,3 +17,8 @@ void change(int x) {
     x = 20;
     printf("Inside function: %d\n", x);
 }
+
+// OUTPUT:
+// Before function call: 10 
+// Inside function: 20
+// After function call: 10
