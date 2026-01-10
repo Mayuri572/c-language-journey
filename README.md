@@ -8,6 +8,7 @@ My complete C programming learning journey with chapter-wise programs, practice 
 - Chapter 04: Loop Control Instructions
 - Chapter 05: Functions & Recursion
 - Chapter 06: Pointers
+- Chapter 07: Arrays
 
 Each chapter contains:
 - Concept-wise programs
