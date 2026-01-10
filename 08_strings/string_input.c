@@ -25,5 +25,5 @@ int main() {
 // Output:
 // Enter name (no spaces): Mayuri
 // Enter full name: Mayuri Jadhav   
-//Using scanf: Mayuri
-//Using fgets: Mayuri Jadhav
+// Using scanf: Mayuri
+// Using fgets: Mayuri Jadhav
